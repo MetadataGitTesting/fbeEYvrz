@@ -1,0 +1,50 @@
+name: dominque.bosco
+description: support
+version: 0.0.1
+author: ypzzf4dx.nbfxmsep@jihdro7y.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: dominquebosco
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:33:15'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:33:15'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:33:15.14108Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '368980662'
+  createdAt: '2025-09-19T23:33:15.14108Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
